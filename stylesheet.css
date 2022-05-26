@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 20px;
+}
+
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+
+}
+
+.logo{
+    padding: 2px 10px;
+    height: 48px;
+}
+
+.icon-bar{
+    background: darkorange;
+}
+
+.cap{
+    color:darkgray;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sign{
+    padding: 12px 15px;
+    color: white;
+    background-color:dodgerblue;
+    border: none;
+    border-radius: 5px;
+}
+
+.sign:hover{
+    opacity: 75%;
+}
+
+.signup{
+    padding: 12px 15px;
+    color: dodgerblue;
+    background-color:white;
+    border: none;
+    border-radius: 5px;
+}
